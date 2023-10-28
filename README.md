@@ -8,4 +8,4 @@
   <a href="#"><img width="100%" height="auto" src="https://gifer.com/embed/A01U" height="175px"/></a>
 
 
-<div style="padding-top:66.667%;position:relative;"><iframe src="https://gifer.com/embed/A01U" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
